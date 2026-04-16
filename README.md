@@ -5,10 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F64F59,50:C471ED,100:7B2D8B&height=200&section=header&text=Maria%20Salazar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IoT%20%E2%80%A2%20Ciberseguridad%20%E2%80%A2%20Desarrollo%20Web&descAlignY=62&descSize=18" width="100%"/>
 </picture>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C471ED&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Maria+del+Carmen+%F0%9F%91%8B;Desarrolladora+apasionada+%F0%9F%9A%80;IoT+%E2%80%A2+Biometr%C3%ADa+%E2%80%A2+Ciberseguridad+%F0%9F%94%90" alt="Typing SVG"/>
-
 </div>
 
 ---
