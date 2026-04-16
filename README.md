@@ -19,8 +19,7 @@
 
 ---
 
-### 🛠️ Tech Stack
-
+### 🛠️ Tecnologías y Herramientas
 <div align="center">
 
 <picture>
@@ -38,7 +37,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MariaDSalazar&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MariaDSalazar&show_icons=true&theme=catppuccin_latte&hide_border=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?
+    &show_icons=true&theme=catppuccin_latte&hide_border=true&include_all_commits=true"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDSalazar&layout=compact&theme=midnight-purple&hide_border=true"/>
