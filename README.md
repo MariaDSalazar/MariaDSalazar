@@ -1,50 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Maria%20Salazar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IoT%20%E2%80%A2%20Ciberseguridad%20%E2%80%A2%20Desarrollo%20Web&descAlignY=62&descSize=20" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7B2D8B,50:C471ED,100:F64F59&height=200&section=header&text=Maria%20Salazar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IoT%20%E2%80%A2%20Ciberseguridad%20%E2%80%A2%20Desarrollo%20Web&descAlignY=62&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F64F59,50:C471ED,100:7B2D8B&height=200&section=header&text=Maria%20Salazar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IoT%20%E2%80%A2%20Ciberseguridad%20%E2%80%A2%20Desarrollo%20Web&descAlignY=62&descSize=18" width="100%"/>
+</picture>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hola%2C+soy+Maria+del+Carmen+%F0%9F%91%8B;Desarrolladora+apasionada+por+el+IoT+%F0%9F%94%8C;Construyo+soluciones+con+impacto+real+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C471ED&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Maria+del+Carmen+%F0%9F%91%8B;Desarrolladora+apasionada+%F0%9F%9A%80;IoT+%E2%80%A2+Biometr%C3%ADa+%E2%80%A2+Ciberseguridad+%F0%9F%94%90" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+### ✨ Sobre mí
 
-### 🧠 Sobre mí
-
-```python
-class MariaSalazar:
-    nombre     = "Maria del Carmen Salazar Torres"
-    ubicacion  = "Ecuador 🇪🇨"
-    enfoque    = ["IoT", "Biometría", "Ciberseguridad"]
-    lenguajes  = ["Python", "JavaScript", "CSS"]
-    objetivo   = "Construir tech con propósito"
-
-    def saludo(self):
-        return "¡Bienvenido a mi perfil! 🚀"
-```
-
-<br clear="right"/>
+- 🎓 Desarrolladora con enfoque en **IoT y Biometría**
+- 🔐 Apasionada por la **Ciberseguridad**
+- ☁️ Explorando **Cloud Computing**
+- 🌎 Desde **Ecuador** 🇪🇨
+- 💜 Creo en construir tecnología con impacto real
 
 ---
 
-### 🏆 Trofeos
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MariaDSalazar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="trofeos"/>
-
-</div>
-
----
-
-### ⚡ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,vscode,github,git,linux,arduino&theme=dark&perline=9" alt="skills"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,html,css,vscode,github,git,linux,arduino&theme=dark&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,vscode,github,git,linux,arduino&theme=light&perline=9"/>
+</picture>
 
 </div>
 
@@ -54,49 +40,27 @@ class MariaSalazar:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaDSalazar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDSalazar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaDSalazar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="60%" alt="streak"/>
-
-</div>
-
----
-
-### 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaDSalazar&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&hide_border=true&area=true&area_color=00D9FF" width="100%" alt="activity graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MariaDSalazar&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MariaDSalazar&show_icons=true&theme=catppuccin_latte&hide_border=true&include_all_commits=true"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDSalazar&layout=compact&theme=midnight-purple&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDSalazar&layout=compact&theme=catppuccin_latte&hide_border=true"/>
+</picture>
 
 </div>
 
 ---
 
-### 🐍 Mis contribuciones
+### 📈 Actividad reciente
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MariaDSalazar/MariaDSalazar/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</div>
-
----
-
-### 🚀 Proyectos destacados
-
-<div align="center">
-
-<a href="https://github.com/MariaDSalazar/prototipoIoTBiometric">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaDSalazar&repo=prototipoIoTBiometric&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="prototipoIoTBiometric"/>
-</a>
-<a href="https://github.com/MariaDSalazar/Libro-Ciberseguridad-UNL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaDSalazar&repo=Libro-Ciberseguridad-UNL&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ciberseguridad"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MariaDSalazar&theme=tokyo-night&hide_border=true&area=true&area_color=C471ED&color=C471ED&line=C471ED&point=F64F59"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaDSalazar&theme=github&hide_border=true&area=true&color=7B2D8B&line=C471ED&point=F64F59" width="100%"/>
+</picture>
 
 </div>
 
@@ -104,8 +68,11 @@ class MariaSalazar:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MariaDSalazar&color=00D9FF&style=for-the-badge&label=VISITAS+AL+PERFIL)
+![Profile Views](https://komarev.com/ghpvc/?username=MariaDSalazar&color=C471ED&style=for-the-badge&label=VISITAS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7B2D8B,50:C471ED,100:F64F59&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F64F59,50:C471ED,100:7B2D8B&height=120&section=footer" width="100%"/>
+</picture>
 
 </div>
