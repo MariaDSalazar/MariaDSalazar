@@ -1,74 +1,111 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Maria%20Salazar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20IoT%20%7C%20Ciberseguridad&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Maria%20Salazar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IoT%20%E2%80%A2%20Ciberseguridad%20%E2%80%A2%20Desarrollo%20Web&descAlignY=62&descSize=20" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hola%2C+soy+Maria+del+Carmen+%F0%9F%91%8B;Desarrolladora+apasionada+por+el+IoT+%F0%9F%94%8C;Construyo+soluciones+con+impacto+real+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### Hola, soy Maria del Carmen Salazar Torres 👩‍💻
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
 
-Desarrolladora apasionada por la tecnología IoT, la ciberseguridad y el desarrollo web. Combino hardware y software para construir soluciones con impacto real.
+### 🧠 Sobre mí
 
----
+```python
+class MariaSalazar:
+    nombre     = "Maria del Carmen Salazar Torres"
+    ubicacion  = "Ecuador 🇪🇨"
+    enfoque    = ["IoT", "Biometría", "Ciberseguridad"]
+    lenguajes  = ["Python", "JavaScript", "CSS"]
+    objetivo   = "Construir tech con propósito"
 
-### Tecnologías y herramientas
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-### Áreas de enfoque
-
-```text
-IoT & Biometría     ████████████░░░   80%
-Ciberseguridad      █████████░░░░░░   60%
-Desarrollo Web      ████████░░░░░░░   55%
-Cloud Computing     ██████░░░░░░░░░   40%
+    def saludo(self):
+        return "¡Bienvenido a mi perfil! 🚀"
 ```
 
+<br clear="right"/>
+
 ---
 
-### Estadísticas GitHub
+### 🏆 Trofeos
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MariaDSalazar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDSalazar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaDSalazar&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MariaDSalazar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="trofeos"/>
 
 </div>
 
 ---
 
-### Proyectos destacados
+### ⚡ Tech Stack
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [prototipoIoTBiometric](https://github.com/MariaDSalazar/prototipoIoTBiometric) | Control de acceso con reconocimiento facial y huella digital | Python, IoT |
-| [Libro-Ciberseguridad-UNL](https://github.com/MariaDSalazar/Libro-Ciberseguridad-UNL) | Recurso educativo sobre ciberseguridad | JavaScript |
-| [practica11](https://github.com/MariaDSalazar/practica11) | Práctica de Cloud Computing | Python |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,vscode,github,git,linux,arduino&theme=dark&perline=9" alt="skills"/>
+
+</div>
+
+---
+
+### 📊 Estadísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaDSalazar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDSalazar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaDSalazar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="60%" alt="streak"/>
+
+</div>
+
+---
+
+### 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaDSalazar&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&hide_border=true&area=true&area_color=00D9FF" width="100%" alt="activity graph"/>
+
+</div>
+
+---
+
+### 🐍 Mis contribuciones
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MariaDSalazar/MariaDSalazar/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
+</div>
+
+---
+
+### 🚀 Proyectos destacados
+
+<div align="center">
+
+<a href="https://github.com/MariaDSalazar/prototipoIoTBiometric">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaDSalazar&repo=prototipoIoTBiometric&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="prototipoIoTBiometric"/>
+</a>
+<a href="https://github.com/MariaDSalazar/Libro-Ciberseguridad-UNL">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MariaDSalazar&repo=Libro-Ciberseguridad-UNL&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ciberseguridad"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MariaDSalazar.MariaDSalazar)
+![Profile Views](https://komarev.com/ghpvc/?username=MariaDSalazar&color=00D9FF&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 
 </div>
