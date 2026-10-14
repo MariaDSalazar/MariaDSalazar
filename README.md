@@ -1,74 +1,29 @@
-<div align="center">
+<p align="center">
+  <img src="assets/cabecera.svg" width="100%" alt="María del Carmen Salazar Torres · IoT, biometría, ciberseguridad y datos">
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7B2D8B,50:C471ED,100:F64F59&height=200&section=header&text=Maria%20Salazar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IoT%20%E2%80%A2%20Ciberseguridad%20%E2%80%A2%20Desarrollo%20Web&descAlignY=62&descSize=18"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F64F59,50:C471ED,100:7B2D8B&height=200&section=header&text=Maria%20Salazar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=IoT%20%E2%80%A2%20Ciberseguridad%20%E2%80%A2%20Desarrollo%20Web&descAlignY=62&descSize=18" width="100%"/>
-</picture>
+### `~/proyectos`
 
-</div>
+<p align="center">
+  <a href="https://github.com/MariaDSalazar/prototipoIoTBiometric"><img src="assets/p-biometrico.svg" width="49%" alt="Prototipo IoT Biométrico: control de acceso con rostro, parpadeo y huella dactilar"></a>
+  <a href="https://github.com/MariaDSalazar/soundmind"><img src="assets/p-soundmind.svg" width="49%" alt="SoundMind: música libre con un motor de recomendación híbrido propio"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/MariaDSalazar/SciFinder"><img src="assets/p-scifinder.svg" width="49%" alt="SciFinder: buscador de papers científicos"></a>
+  <a href="https://github.com/MariaDSalazar/gestor-bibliografico"><img src="assets/p-gestor.svg" width="49%" alt="Gestor Bibliográfico: importa documentos y genera citas"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/MariaDSalazar/kinti-bus-bd2"><img src="assets/p-kintibus.svg" width="49%" alt="Kinti Bus: simulador con bases TEST y PRODUCCIÓN en el navegador"></a>
+  <a href="https://github.com/MariaDSalazar/gorush-poo"><img src="assets/p-gorush.svg" width="49%" alt="GoRush: carrera de preguntas en vivo"></a>
+</p>
 
----
+### `~/stack`
 
-### ✨ Sobre mí
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Python, Go, JavaScript, TypeScript, SQL, React, Vue, Node.js, FastAPI, SQL Server, PostgreSQL, Raspberry Pi, MQTT, Docker, Linux">
+</p>
 
-- 🎓 Desarrolladora con enfoque en **IoT y Biometría**
-- 🔐 Apasionada por la **Ciberseguridad**
-- ☁️ Explorando **Cloud Computing**
-- 🌎 Desde **Ecuador** 🇪🇨
-- 💜 Creo en construir tecnología con impacto real
-
----
-
-### 🛠️ Tecnologías y Herramientas
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,html,css,vscode,github,git,linux,arduino&theme=dark&perline=9"/>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,vscode,github,git,linux,arduino&theme=light&perline=9"/>
-</picture>
-
-</div>
-
----
-
-### 📊 Estadísticas
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MariaDSalazar&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?
-    &show_icons=true&theme=catppuccin_latte&hide_border=true&include_all_commits=true"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDSalazar&layout=compact&theme=midnight-purple&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaDSalazar&layout=compact&theme=catppuccin_latte&hide_border=true"/>
-</picture>
-
-</div>
-
----
-
-### 📈 Actividad reciente
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MariaDSalazar&theme=tokyo-night&hide_border=true&area=true&area_color=C471ED&color=C471ED&line=C471ED&point=F64F59"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaDSalazar&theme=github&hide_border=true&area=true&color=7B2D8B&line=C471ED&point=F64F59" width="100%"/>
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=MariaDSalazar&color=C471ED&style=for-the-badge&label=VISITAS)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7B2D8B,50:C471ED,100:F64F59&height=120&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F64F59,50:C471ED,100:7B2D8B&height=120&section=footer" width="100%"/>
-</picture>
-
-</div>
+<p align="center">
+  <a href="https://mariadsalazar.github.io/Portafolio/">Portafolio</a> ·
+  <a href="https://www.linkedin.com/in/mariasalazar24">LinkedIn</a>
+</p>
