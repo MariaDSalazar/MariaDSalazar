@@ -13,8 +13,8 @@
   <a href="https://github.com/MariaDSalazar/gestor-bibliografico"><img src="assets/p-gestor.svg" width="49%" alt="Gestor Bibliográfico: importa documentos y genera citas"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/MariaDSalazar/kinti-bus-bd2"><img src="assets/p-kintibus.svg" width="49%" alt="Kinti Bus: simulador con bases TEST y PRODUCCIÓN en el navegador"></a>
-  <a href="https://github.com/MariaDSalazar/gorush-poo"><img src="assets/p-gorush.svg" width="49%" alt="GoRush: carrera de preguntas en vivo"></a>
+  <a href="https://github.com/MariaDSalazar/kinti-bus"><img src="assets/p-kintibus.svg" width="49%" alt="Kinti Bus: simulador con bases TEST y PRODUCCIÓN en el navegador"></a>
+  <a href="https://github.com/MariaDSalazar/gorush"><img src="assets/p-gorush.svg" width="49%" alt="GoRush: carrera de preguntas en vivo"></a>
 </p>
 
 ### `~/stack`
