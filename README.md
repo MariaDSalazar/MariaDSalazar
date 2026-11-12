@@ -12,6 +12,10 @@
   <a href="https://github.com/MariaDSalazar/officego"><img src="assets/p-officego.svg" width="49%" alt="OfficeGo: instalador de Microsoft Office para Windows 10 y 11"></a>
   <a href="https://github.com/MariaDSalazar/Portafolio"><img src="assets/p-portafolio.svg" width="49%" alt="Portafolio: sitio personal en Next.js"></a>
 </p>
+<p align="center">
+  <a href="https://github.com/MariaDSalazar/SciFinder"><img src="assets/p-scifinder.svg" width="49%" alt="SciFinder: buscador de papers científicos en varias bases académicas"></a>
+  <a href="https://github.com/MariaDSalazar/gestor-bibliografico"><img src="assets/p-gestor.svg" width="49%" alt="Gestor Bibliográfico: importa referencias y genera citas APA, IEEE y BibTeX"></a>
+</p>
 
 ### `~/software-educativo`
 
