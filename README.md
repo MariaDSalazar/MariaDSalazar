@@ -5,7 +5,7 @@
 ### `~/proyectos`
 
 <p align="center">
-  <a href="https://github.com/MariaDSalazar/prototipoIoTBiometric"><img src="assets/p-biometrico.svg" width="49%" alt="Prototipo IoT Biométrico: control de acceso con rostro, parpadeo y huella dactilar"></a>
+  <a href="https://github.com/MariaDSalazar/prototipoIoTBiometric"><img src="assets/p-biometrico.svg" width="49%" alt="Umbral: control de acceso con rostro, parpadeo y huella dactilar"></a>
   <a href="https://github.com/MariaDSalazar/soundmind"><img src="assets/p-soundmind.svg" width="49%" alt="SoundMind: música libre con un motor de recomendación híbrido propio"></a>
 </p>
 <p align="center">
@@ -15,11 +15,11 @@
 
 ### `~/software-educativo`
 
-Además de estos proyectos, diseño software educativo que funciona en el navegador sin instalación ni cuentas, desde simuladores con bases de prueba y de producción hasta juegos de plataformas y partidas en vivo que los estudiantes controlan desde su celular.
+Juegos y simuladores que mis estudiantes abren en el navegador, sin instalar nada.
 
 <p align="center">
   <a href="https://mariadsalazar.github.io/kinti-bus/"><img src="assets/p-kintibus.svg" width="49%" alt="Kinti Bus: simulador con bases TEST y PRODUCCIÓN en el navegador"></a>
-  <a href="https://mariadsalazar.github.io/gorush/"><img src="assets/p-gorush.svg" width="49%" alt="GoRush: carrera de preguntas en vivo"></a>
+  <a href="https://mariadsalazar.github.io/gorush/"><img src="assets/p-gorush.svg" width="49%" alt="Relevo: carrera de preguntas en vivo"></a>
 </p>
 <p align="center">
   <a href="https://mariadsalazar.github.io/super-campus/"><img src="assets/p-supercampus.svg" width="49%" alt="Súper Campus: juego de plataformas con retos encadenados"></a>
