@@ -31,7 +31,7 @@ Juegos y simuladores que mis estudiantes abren en el navegador, sin instalar nad
 </p>
 
 <p align="center">
-  <a href="https://github.com/search?q=user%3AMariaDSalazar+topic%3Aeducacion&type=repositories">Ver todo el software educativo →</a>
+  <a href="https://github.com/search?q=user%3AMariaDSalazar+topic%3Aeducacion&type=repositories">Ver todo el software educativo</a>
 </p>
 
 ### `~/stack`
